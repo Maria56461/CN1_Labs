@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../sumator_anticipare_transport.srcs/sources_1/new/sumator4biti.v" \
+"../../../../sumator_anticipare_transport.srcs/sim_1/new/sum4bitisim.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,19 @@
+Vivado Simulator 2020.2
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: D:/Vivado/2020.2/bin/unwrapped/win64.o/xelab.exe -wto e5c8f3ee18784a4681d75892640cba2f --incr --debug typical --relax --mt 2 -L xil_defaultlib -L util_vector_logic_v2_0_1 -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot SIMULARE_HALFADDER_behav xil_defaultlib.SIMULARE_HALFADDER xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module util_vector_logic_v2_0_1.util_vector_logic_v2_0_1_util_ve...
+Compiling module xil_defaultlib.design_halfAdder_util_vector_log...
+Compiling module util_vector_logic_v2_0_1.util_vector_logic_v2_0_1_util_ve...
+Compiling module xil_defaultlib.design_halfAdder_util_vector_log...
+Compiling module xil_defaultlib.design_halfAdder
+Compiling module xil_defaultlib.design_halfAdder_wrapper
+Compiling module xil_defaultlib.SIMULARE_HALFADDER
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot SIMULARE_HALFADDER_behav

@@ -1,0 +1,1 @@
+-wto "e5c8f3ee18784a4681d75892640cba2f" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "util_vector_logic_v2_0_1" -L "unisims_ver" -L "unimacro_ver" -L "secureip" -L "xpm" --snapshot "SIMULARE_HALFADDER_behav" "xil_defaultlib.SIMULARE_HALFADDER" "xil_defaultlib.glbl" -log "elaborate.log" 

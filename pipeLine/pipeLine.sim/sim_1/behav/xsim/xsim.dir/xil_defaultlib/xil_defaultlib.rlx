@@ -1,0 +1,11 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+D:/Laborator-CN/pipeLine/pipeLine.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+D:/Laborator-CN/pipeLine/pipeLine.srcs/sim_1/new/simulare.v,1622013511,verilog,,,,simulare,,,,,,,,
+D:/Laborator-CN/pipeLine/pipeLine.srcs/sources_1/new/inmultire.v,1622009263,verilog,,D:/Laborator-CN/pipeLine/pipeLine.srcs/sources_1/new/minus.v,,inmultire,,,,,,,,
+D:/Laborator-CN/pipeLine/pipeLine.srcs/sources_1/new/minus.v,1622008672,verilog,,D:/Laborator-CN/pipeLine/pipeLine.srcs/sources_1/new/pipeline.v,,minus,,,,,,,,
+D:/Laborator-CN/pipeLine/pipeLine.srcs/sources_1/new/pipeline.v,1622011716,verilog,,D:/Laborator-CN/pipeLine/pipeLine.srcs/sources_1/new/plus.v,,pipeline,,,,,,,,
+D:/Laborator-CN/pipeLine/pipeLine.srcs/sources_1/new/plus.v,1622008975,verilog,,D:/Laborator-CN/pipeLine/pipeLine.srcs/sources_1/new/registru.v,,plus,,,,,,,,
+D:/Laborator-CN/pipeLine/pipeLine.srcs/sources_1/new/registru.v,1622009697,verilog,,D:/Laborator-CN/pipeLine/pipeLine.srcs/sim_1/new/simulare.v,,registru,,,,,,,,

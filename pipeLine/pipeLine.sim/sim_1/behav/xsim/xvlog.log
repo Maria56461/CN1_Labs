@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Laborator-CN/pipeLine/pipeLine.srcs/sources_1/new/inmultire.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module inmultire
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Laborator-CN/pipeLine/pipeLine.srcs/sources_1/new/minus.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module minus
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Laborator-CN/pipeLine/pipeLine.srcs/sources_1/new/pipeline.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pipeline
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Laborator-CN/pipeLine/pipeLine.srcs/sources_1/new/plus.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module plus
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Laborator-CN/pipeLine/pipeLine.srcs/sources_1/new/registru.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module registru
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Laborator-CN/pipeLine/pipeLine.srcs/sim_1/new/simulare.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module simulare

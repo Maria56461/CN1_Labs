@@ -1,0 +1,9 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+D:/Laborator-CN/sumator_anticipare_transport/sumator_anticipare_transport.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+D:/Laborator-CN/sumator_anticipare_transport/sumator_anticipare_transport.srcs/sim_1/new/simulare16biti.v,1620801223,verilog,,,,simulare16biti,,,,,,,,
+D:/Laborator-CN/sumator_anticipare_transport/sumator_anticipare_transport.srcs/sim_1/new/sum4bitisim.v,1620799313,verilog,,,,sum4bitisim,,,,,,,,
+D:/Laborator-CN/sumator_anticipare_transport/sumator_anticipare_transport.srcs/sources_1/new/sumator16biti.v,1620800572,verilog,,D:/Laborator-CN/sumator_anticipare_transport/sumator_anticipare_transport.srcs/sources_1/new/sumator4biti.v,,sumator16biti,,,,,,,,
+D:/Laborator-CN/sumator_anticipare_transport/sumator_anticipare_transport.srcs/sources_1/new/sumator4biti.v,1620802374,verilog,,D:/Laborator-CN/sumator_anticipare_transport/sumator_anticipare_transport.srcs/sim_1/new/simulare16biti.v,,sumator4biti,,,,,,,,

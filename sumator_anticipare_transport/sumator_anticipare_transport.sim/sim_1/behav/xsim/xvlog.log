@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Laborator-CN/sumator_anticipare_transport/sumator_anticipare_transport.srcs/sources_1/new/sumator16biti.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sumator16biti
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Laborator-CN/sumator_anticipare_transport/sumator_anticipare_transport.srcs/sim_1/new/simulare16biti.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module simulare16biti

@@ -1,0 +1,1 @@
+vopt +acc=npr -l elaborate.log -L util_vector_logic_v2_0_1 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -work xil_defaultlib xil_defaultlib.design_halfAdder xil_defaultlib.glbl -o design_halfAdder_opt

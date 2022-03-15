@@ -1,0 +1,10 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+D:/Laborator-CN/Numarator/Numarator.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+D:/Laborator-CN/Numarator/Numarator.srcs/sim_1/new/Top_simulare.v,1617724214,verilog,,,,Top_simulare,,,,,,,,
+D:/Laborator-CN/Numarator/Numarator.srcs/sim_1/new/numarator_sim.v,1617704656,verilog,,,,numarator_sim,,,,,,,,
+D:/Laborator-CN/Numarator/Numarator.srcs/sources_1/new/TOP.v,1617720905,verilog,,D:/Laborator-CN/Numarator/Numarator.srcs/sources_1/new/convertor.v,,TOP,,,,,,,,
+D:/Laborator-CN/Numarator/Numarator.srcs/sources_1/new/convertor.v,1617724356,verilog,,D:/Laborator-CN/Numarator/Numarator.srcs/sources_1/new/numarator.v,,convertor,,,,,,,,
+D:/Laborator-CN/Numarator/Numarator.srcs/sources_1/new/numarator.v,1617705061,verilog,,D:/Laborator-CN/Numarator/Numarator.srcs/sim_1/new/Top_simulare.v,,numarator,,,,,,,,

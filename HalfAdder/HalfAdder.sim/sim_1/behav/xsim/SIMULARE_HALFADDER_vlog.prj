@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../HalfAdder.ip_user_files/bd/design_halfAdder/ip/design_halfAdder_util_vector_logic_1_0/sim/design_halfAdder_util_vector_logic_1_0.v" \
+"../../../../HalfAdder.ip_user_files/bd/design_halfAdder/ip/design_halfAdder_util_vector_logic_0_2/sim/design_halfAdder_util_vector_logic_0_2.v" \
+"../../../../HalfAdder.ip_user_files/bd/design_halfAdder/sim/design_halfAdder.v" \
+"../../../../HalfAdder.gen/sources_1/bd/design_halfAdder/hdl/design_halfAdder_wrapper.v" \
+"../../../../HalfAdder.srcs/sim_1/new/SIMULARE_HALFADDER.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,135 @@
+{
+  "design": {
+    "design_info": {
+      "boundary_crc": "0xF16E043977763AD6",
+      "device": "xc7a100tcsg324-1",
+      "gen_directory": "../../../../HalfAdder.gen/sources_1/bd/design_halfAdder",
+      "name": "design_halfAdder",
+      "rev_ctrl_bd_flag": "RevCtrlBdOff",
+      "synth_flow_mode": "Hierarchical",
+      "tool_version": "2020.2",
+      "validated": "true"
+    },
+    "design_tree": {
+      "util_vector_logic_1": "",
+      "util_vector_logic_0": ""
+    },
+    "ports": {
+      "a": {
+        "direction": "I",
+        "left": "0",
+        "right": "0",
+        "parameters": {
+          "PortType": {
+            "value": "undef",
+            "value_src": "ip_prop"
+          },
+          "PortType.PROP_SRC": {
+            "value": "false",
+            "value_src": "ip_prop"
+          }
+        }
+      },
+      "b": {
+        "direction": "I",
+        "left": "0",
+        "right": "0",
+        "parameters": {
+          "PortType": {
+            "value": "undef",
+            "value_src": "ip_prop"
+          },
+          "PortType.PROP_SRC": {
+            "value": "false",
+            "value_src": "ip_prop"
+          }
+        }
+      },
+      "cout": {
+        "direction": "O",
+        "left": "0",
+        "right": "0",
+        "parameters": {
+          "PortType": {
+            "value": "undef",
+            "value_src": "ip_prop"
+          },
+          "PortType.PROP_SRC": {
+            "value": "false",
+            "value_src": "ip_prop"
+          }
+        }
+      },
+      "sum": {
+        "direction": "O",
+        "left": "0",
+        "right": "0",
+        "parameters": {
+          "PortType": {
+            "value": "undef",
+            "value_src": "ip_prop"
+          },
+          "PortType.PROP_SRC": {
+            "value": "false",
+            "value_src": "ip_prop"
+          }
+        }
+      }
+    },
+    "components": {
+      "util_vector_logic_1": {
+        "vlnv": "xilinx.com:ip:util_vector_logic:2.0",
+        "xci_name": "design_halfAdder_util_vector_logic_1_0",
+        "xci_path": "ip\\design_halfAdder_util_vector_logic_1_0\\design_halfAdder_util_vector_logic_1_0.xci",
+        "inst_hier_path": "util_vector_logic_1",
+        "parameters": {
+          "C_SIZE": {
+            "value": "1"
+          }
+        }
+      },
+      "util_vector_logic_0": {
+        "vlnv": "xilinx.com:ip:util_vector_logic:2.0",
+        "xci_name": "design_halfAdder_util_vector_logic_0_2",
+        "xci_path": "ip\\design_halfAdder_util_vector_logic_0_2\\design_halfAdder_util_vector_logic_0_2.xci",
+        "inst_hier_path": "util_vector_logic_0",
+        "parameters": {
+          "C_OPERATION": {
+            "value": "xor"
+          },
+          "C_SIZE": {
+            "value": "1"
+          }
+        }
+      }
+    },
+    "nets": {
+      "Op1_0_1": {
+        "ports": [
+          "a",
+          "util_vector_logic_1/Op1",
+          "util_vector_logic_0/Op1"
+        ]
+      },
+      "Op2_0_1": {
+        "ports": [
+          "b",
+          "util_vector_logic_1/Op2",
+          "util_vector_logic_0/Op2"
+        ]
+      },
+      "util_vector_logic_1_Res": {
+        "ports": [
+          "util_vector_logic_1/Res",
+          "cout"
+        ]
+      },
+      "util_vector_logic_0_Res": {
+        "ports": [
+          "util_vector_logic_0/Res",
+          "sum"
+        ]
+      }
+    }
+  }
+}
